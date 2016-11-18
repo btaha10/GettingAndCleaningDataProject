@@ -16,7 +16,7 @@ The script assumes "UCI HAR Dataset" has the following files & folders:
 3. test/subject_test.txt x_test.txt y_test.txt
 4. train/subject_train.txt X_train.txt y_train.txt
 
-2 data sets are formed and saved into 2 files namely "tidyData.txt" and "averageData.txt".
+Two data sets are formed and saved into 2 files namely "tidyData.txt" and "averageData.txt".
 
 TidyData.txt includes 10299 rows by 68 columns. Each row contains the subject, activity and measurements of all required features.
 AverageData.txt includes 180 rows by 68 columns. Each row contains the subject, activity and measures the mean of all required features. 
